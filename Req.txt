@@ -1,0 +1,4 @@
+1- XG Boost
+2- Random Forest
+3- Bagging
+4- Polynomial regression (We will use SVM Instead )
