@@ -106,3 +106,5 @@ if st.button("Predict Price"):
         st.write("Input data:", input_data)
         st.write("Input DF shape:", input_df.shape)
         st.write("Input scaled shape:", input_scaled.shape)
+
+#python -m streamlit run app.py
